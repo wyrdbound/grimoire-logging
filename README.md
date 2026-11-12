@@ -1,7 +1,7 @@
 # Grimoire Logging
 
 [![Tests](https://github.com/wyrdbound/grimoire-logging/workflows/Tests/badge.svg)](https://github.com/wyrdbound/grimoire-logging/actions)
-[![Python 3.8+](https://img.shields.io/badge/python-3.8+-blue.svg)](https://www.python.org/downloads/)
+[![Python 3.11+](https://img.shields.io/badge/python-3.11+-blue.svg)](https://www.python.org/downloads/)
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](LICENSE)
 [![Code style: Ruff](https://img.shields.io/endpoint?url=https://raw.githubusercontent.com/astral-sh/ruff/main/assets/badge/v2.json)](https://github.com/astral-sh/ruff)
 
@@ -326,7 +326,7 @@ mypy src/
 
 ## 📋 Requirements
 
-- Python 3.8+
+- Python 3.11+
 - No runtime dependencies
 
 ## 📄 License
