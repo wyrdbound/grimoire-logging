@@ -31,7 +31,7 @@ from .core import (
     inject_logger,
 )
 
-__version__ = "0.1.0"  # x-release-please-version
+__version__ = "0.2.0"  # x-release-please-version
 __author__ = "The Wyrd One"
 __email__ = "wyrdbound@proton.me"
 
