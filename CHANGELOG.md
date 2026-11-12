@@ -7,6 +7,17 @@ the entries up to v0.1.0 were written by hand in
 [Keep a Changelog](https://keepachangelog.com/en/1.1.0/) form. The project
 adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0.html).
 
+## [0.2.0](https://github.com/wyrdbound/grimoire-logging/compare/v0.1.0...v0.2.0) (2026-11-12)
+
+
+### ⚠ BREAKING CHANGES
+
+* installs on Python older than 3.11 are refused; users on those versions stay on 0.1.0.
+
+### Features
+
+* require Python 3.11 or newer ([7a7b142](https://github.com/wyrdbound/grimoire-logging/commit/7a7b142fb95435af5ba3e2a931ec175de25b5a95))
+
 ## v0.1.0 (2025-09-11)
 
 ### Added
