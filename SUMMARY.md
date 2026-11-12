@@ -71,7 +71,7 @@ Thread-safe proxy that delegates to injected loggers or falls back to standard l
 
 ## Development Environment
 
-- **Python**: 3.8+ compatibility
+- **Python**: 3.11+ compatibility
 - **Build System**: Hatchling (modern Python packaging)
 - **Testing**: pytest with coverage reporting
 - **Type Checking**: mypy with strict configuration
